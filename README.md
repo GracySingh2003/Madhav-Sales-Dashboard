@@ -1,4 +1,4 @@
-# Madhav-Sales-Dashboard
+# Ecommerce-Sales-Dashboard
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
 ![Domain](https://img.shields.io/badge/Domain-E--Commerce%20Analytics-blue)
