@@ -71,5 +71,7 @@ This project was developed by learning from a
 📺 **YouTube Power BI Tutorial**, applying hands-on practice to build a real-world dashboard.
 
 ## 📸 Dashboard Preview:
+https://github.com/GracySingh2003/Madhav-Sales-Dashboard/blob/main/Madhav%20Sales%20Dashboard.png
 
+⭐ *If you found this project useful, consider giving it a star!*
 
